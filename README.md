@@ -1,8 +1,8 @@
 # GithubProfileInfo
 
-### You can get info of any GitHub user by entering username
+### You can get info on any GitHub user by entering a username
 
-### View the site:
+### View the site: https://mouryasuraj.github.io/GithubProfileInfo/
 
 ## Source Code
 
@@ -408,7 +408,7 @@ const showModal = () => {
 };
 ```
 
-### Techonologies Used
+### Technologies Used
 
 <li>HTML</li>
 <li>CSS</li>
