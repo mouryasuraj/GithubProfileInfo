@@ -44,7 +44,7 @@
             <img src="./images/loader.gif" alt="">
         </div>
         <div class="profile-card">
-               <p class="title">To display the information please enter the github username in the above field</p>
+               <p class="title">To display the information please enter the GitHub username in the above field</p>
         </div>
         </div>
         <!-- profile card ended -->
